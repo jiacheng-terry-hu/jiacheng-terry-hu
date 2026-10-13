@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="440" viewBox="0 0 1600 440" role="img" aria-labelledby="title desc">
-  <title id="title">Terry — exploring data science</title>
-  <desc id="desc">A navy and maroon banner with a network of data points and Terry's name.</desc>
+  <title id="title">Terry Hu — Applied Data Science</title>
+  <desc id="desc">Terry Hu, University of Chicago Applied Data Science graduate student in the Physical Sciences Division, with an undergraduate background at UC Berkeley.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2=".35"><stop stop-color="#091224"/><stop offset=".58" stop-color="#151225"/><stop offset="1" stop-color="#54152c"/></linearGradient>
     <radialGradient id="glow"><stop stop-color="#dc927e" stop-opacity=".22"/><stop offset="1" stop-color="#dc927e" stop-opacity="0"/></radialGradient>
@@ -15,8 +15,8 @@
     <circle cx="1000" cy="50" r="3" opacity=".35"/><circle cx="1085" cy="180" r="4" opacity=".5"/><circle cx="1180" cy="90" r="4" opacity=".65"/><circle cx="1300" cy="42" r="3" opacity=".3"/><circle cx="1265" cy="208" r="5" opacity=".85"/><circle cx="1435" cy="108" r="4" opacity=".75"/><circle cx="1480" cy="255" r="5" opacity=".9"/><circle cx="1040" cy="325" r="3" opacity=".4"/><circle cx="1200" cy="373" r="3" opacity=".4"/><circle cx="1390" cy="345" r="4" opacity=".75"/><circle cx="1540" cy="45" r="3" opacity=".4"/><circle cx="1590" cy="200" r="3" opacity=".4"/><circle cx="1550" cy="398" r="3" opacity=".4"/>
   </g>
   <text x="90" y="95" fill="#caa8a5" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="5">CURIOSITY → CODE → DISCOVERY</text>
-  <text x="85" y="225" fill="#f7f1ed" font-family="Arial,Helvetica,sans-serif" font-size="105" font-weight="400" letter-spacing="5">TERRY</text>
-  <text x="91" y="281" fill="#ddd5d3" font-family="Arial,Helvetica,sans-serif" font-size="26" letter-spacing="2">Exploring data science, one project at a time.</text>
+  <text x="85" y="225" fill="#f7f1ed" font-family="Arial,Helvetica,sans-serif" font-size="99" font-weight="400" letter-spacing="5">TERRY HU</text>
+  <text x="91" y="281" fill="#ddd5d3" font-family="Arial,Helvetica,sans-serif" font-size="25" letter-spacing="1.5">APPLIED DATA SCIENCE · UNIVERSITY OF CHICAGO</text>
   <path d="M90 329h800" stroke="#c59391" stroke-width="1" opacity=".35"/>
-  <text x="91" y="372" fill="#c9b7b8" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3">LEARN BY BUILDING  ·  SHARE THE PROCESS  ·  KEEP GROWING</text>
+  <text x="91" y="372" fill="#c9b7b8" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="1.5">UC BERKELEY → UCHICAGO  |  PHYSICAL SCIENCES DIVISION</text>
 </svg>
