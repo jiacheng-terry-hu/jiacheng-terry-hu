@@ -7,7 +7,7 @@
 **University of Chicago · Physical Sciences Division**
 
 [![UChicago — MS Applied Data Science](https://img.shields.io/badge/UChicago-MS%20Applied%20Data%20Science-800000?style=for-the-badge)](https://ms-ads.datascience.uchicago.edu/)
-[![UC Berkeley — Data Science + Media Studies, double major](https://img.shields.io/badge/UC%20Berkeley-Data%20Science%20%2B%20Media%20Studies%20%C2%B7%20Double%20major-003262?style=for-the-badge)](https://www.berkeley.edu/)
+[![UC Berkeley — Data Science + Media Studies](https://img.shields.io/badge/UC%20Berkeley-Data%20Science%20%2B%20Media%20Studies-003262?style=for-the-badge)](https://www.berkeley.edu/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jiacheng%20%28Terry%29%20Hu-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/terry-hu-811ba9320/)
 
 Hi, I'm **Jiacheng Hu**, and I go by **Terry**. I'm pursuing an **MS in Applied Data Science** at the **University of Chicago, Physical Sciences Division**, building on my undergraduate background in **Data Science at UC Berkeley**.
@@ -21,7 +21,7 @@ This GitHub is a growing record of that work: code, experiments, and explanation
 - **University of Chicago — Graduate studies**  
   MS in Applied Data Science · Physical Sciences Division
 - **UC Berkeley — Undergraduate studies**  
-  **Data Science + Media Studies** · Double major
+  **Data Science + Media Studies**
 
 ## What I'm working toward
 
