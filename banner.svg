@@ -1,22 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="440" viewBox="0 0 1600 440" role="img" aria-labelledby="title desc">
-  <title id="title">Terry Hu — Applied Data Science</title>
-  <desc id="desc">Terry Hu, University of Chicago Applied Data Science graduate student in the Physical Sciences Division, with an undergraduate background at UC Berkeley.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Jiacheng(Terry) Hu — From Data Science to Applied Data Science</title>
+  <desc id="desc">An original midnight blue banner with a geometric chart in teal, gold, and maroon. Jiacheng Hu, who goes by Terry, studies Applied Data Science at UChicago after studying Data Science at UC Berkeley.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2=".35"><stop stop-color="#091224"/><stop offset=".58" stop-color="#151225"/><stop offset="1" stop-color="#54152c"/></linearGradient>
-    <radialGradient id="glow"><stop stop-color="#dc927e" stop-opacity=".22"/><stop offset="1" stop-color="#dc927e" stop-opacity="0"/></radialGradient>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#101a2a"/><stop offset=".62" stop-color="#14242e"/><stop offset="1" stop-color="#1c3037"/></linearGradient>
+    <linearGradient id="teal" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#397a80" stop-opacity=".12"/><stop offset="1" stop-color="#83b9b1" stop-opacity=".55"/></linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#bfdbd4" stroke-width=".5" opacity=".065"/></pattern>
+    <clipPath id="edge"><rect width="1600" height="480" rx="12"/></clipPath>
   </defs>
-  <rect width="1600" height="440" rx="12" fill="url(#bg)"/>
-  <ellipse cx="1380" cy="230" rx="410" ry="290" fill="url(#glow)"/>
-  <g stroke="#d5a7a2" stroke-width="1.2" opacity=".24" fill="none">
-    <path d="M1000 50 1180 90 1300 42 1435 108 1540 45M1000 50 1085 180 1180 90 1265 208 1435 108 1480 255 1590 200M1085 180 1040 325 1265 208 1300 42M1040 325 1200 373 1265 208 1390 345 1480 255 1590 200M1180 90 1435 108M1265 208 1480 255M1200 373 1390 345 1550 398 1480 255M1000 50 1435 108M1085 180 1390 345M1040 325 1480 255M1180 90 1390 345M1435 108 1590 200"/>
-    <path d="M965 118C1200 110 1260 240 1600 128M956 285C1120 167 1360 295 1600 240M970 365C1190 280 1360 365 1600 330"/>
+  <g clip-path="url(#edge)">
+    <rect width="1600" height="480" fill="url(#background)"/>
+    <rect width="1600" height="480" fill="url(#grid)"/>
+    <circle cx="1505" cy="58" r="210" fill="#854154" opacity=".2"/>
+    <circle cx="1480" cy="425" r="205" fill="#558d8b" opacity=".08"/>
+    <g stroke="#a5c4bf" fill="none" opacity=".15">
+      <path d="M1150 105v300h330M1150 330h330M1150 255h330M1150 180h330"/>
+      <path d="M1240 105v300M1330 105v300M1420 105v300" stroke-dasharray="3 8"/>
+    </g>
+    <g fill="url(#teal)">
+      <rect x="1180" y="296" width="42" height="109" rx="4"/>
+      <rect x="1238" y="247" width="42" height="158" rx="4"/>
+      <rect x="1296" y="202" width="42" height="203" rx="4"/>
+      <rect x="1354" y="230" width="42" height="175" rx="4"/>
+      <rect x="1412" y="157" width="42" height="248" rx="4"/>
+    </g>
+    <path d="M1166 282C1220 282 1218 209 1278 211S1360 276 1392 214 1430 124 1480 119" fill="none" stroke="#d2ad7c" stroke-width="3"/>
+    <circle cx="1166" cy="282" r="5" fill="#d2ad7c"/><circle cx="1278" cy="211" r="5" fill="#d2ad7c"/><circle cx="1392" cy="214" r="5" fill="#d2ad7c"/><circle cx="1480" cy="119" r="5" fill="#d2ad7c"/>
+    <path d="M1090 0v480" stroke="#a2b9b8" stroke-width="1" opacity=".1"/>
+    <rect x="84" y="87" width="7" height="7" fill="#d1ae7c"/>
+    <text x="111" y="99" fill="#d1ae7c" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="4">DATA · MODELS · SYSTEMS</text>
+    <text x="79" y="232" fill="#f4eee5" font-family="Georgia,'Times New Roman',serif" font-size="86" letter-spacing="-1.5">Jiacheng(Terry) Hu</text>
+    <text x="85" y="293" fill="#c5d8d7" font-family="Arial,Helvetica,sans-serif" font-size="27">Applied Data Science · University of Chicago</text>
+    <text x="85" y="337" fill="#91aaa9" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing="1.5">PHYSICAL SCIENCES DIVISION</text>
+    <path d="M85 374h907" stroke="#94b0af" stroke-width="1" opacity=".24"/>
+    <text x="85" y="419" fill="#bbc4c8" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="1.4">UC BERKELEY / DATA SCIENCE → UCHICAGO / APPLIED DATA SCIENCE</text>
   </g>
-  <g fill="#efd0b9">
-    <circle cx="1000" cy="50" r="3" opacity=".35"/><circle cx="1085" cy="180" r="4" opacity=".5"/><circle cx="1180" cy="90" r="4" opacity=".65"/><circle cx="1300" cy="42" r="3" opacity=".3"/><circle cx="1265" cy="208" r="5" opacity=".85"/><circle cx="1435" cy="108" r="4" opacity=".75"/><circle cx="1480" cy="255" r="5" opacity=".9"/><circle cx="1040" cy="325" r="3" opacity=".4"/><circle cx="1200" cy="373" r="3" opacity=".4"/><circle cx="1390" cy="345" r="4" opacity=".75"/><circle cx="1540" cy="45" r="3" opacity=".4"/><circle cx="1590" cy="200" r="3" opacity=".4"/><circle cx="1550" cy="398" r="3" opacity=".4"/>
-  </g>
-  <text x="90" y="95" fill="#caa8a5" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="5">CURIOSITY → CODE → DISCOVERY</text>
-  <text x="85" y="225" fill="#f7f1ed" font-family="Arial,Helvetica,sans-serif" font-size="99" font-weight="400" letter-spacing="5">TERRY HU</text>
-  <text x="91" y="281" fill="#ddd5d3" font-family="Arial,Helvetica,sans-serif" font-size="25" letter-spacing="1.5">APPLIED DATA SCIENCE · UNIVERSITY OF CHICAGO</text>
-  <path d="M90 329h800" stroke="#c59391" stroke-width="1" opacity=".35"/>
-  <text x="91" y="372" fill="#c9b7b8" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="1.5">UC BERKELEY → UCHICAGO  |  PHYSICAL SCIENCES DIVISION</text>
 </svg>
